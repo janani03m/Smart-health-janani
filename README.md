@@ -23,17 +23,6 @@ Database: MySQL (User and health data storage)
 
 Wearables/IoT: Health tracking devices (Heart rate sensors, smart bands, etc.)
 
-📂 Project Structure
-Smart-Health-Monitoring/
-│── backend/           # Django backend code
-│   ├── api/           # REST API for health data
-│   ├── models/        # Database models (User, HealthMetrics, Alerts)
-│   ├── utils/         # Data processing & recommendations
-│── frontend/          # React frontend code
-│   ├── components/    # UI components (Dashboard, Charts, Login)
-│   ├── pages/         # User & Admin pages
-│── docs/              # Documentation & reports
-│── README.md          # Project documentation
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
@@ -72,11 +61,6 @@ Support for additional wearable APIs (Fitbit, Apple Watch, Google Fit)
 
 Personalized diet & workout recommendations
 
-👨‍💻 Contributors
-
-[Your Name] – Project Lead & Developer
-
-Team Members – (Add names/roles here)
 
 📜 License
 
